@@ -4,6 +4,6 @@
 
 .container {
 	
-	display: flex;
+	display: inline-flex;
 	height: 300px;
 }

@@ -8,9 +8,7 @@
 
 	flex-wrap: wrap;
 
-	justify-content: space-around;
 	
-	flex-direction: column;
 }
 
 
@@ -18,4 +16,8 @@
 	
 	flex-grow: 1;
 	
+}
+
+.item-1 {
+	flex-grow: 4;
 }

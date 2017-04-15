@@ -14,10 +14,8 @@
 
 .item {
 	
-	flex-grow: 1;
+	flex: 1;
 	
-}
-
-.item-1 {
-	flex-grow: 4;
+	
+	
 }

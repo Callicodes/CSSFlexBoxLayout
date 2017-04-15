@@ -9,11 +9,13 @@
 	flex-wrap: wrap;
 
 	justify-content: space-around;
+	
+	flex-direction: column;
 }
 
 
-.item-5 {
+.item {
 	
-	order: -1;
+	flex-grow: 1;
 	
 }

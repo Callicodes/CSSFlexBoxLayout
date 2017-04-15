@@ -7,6 +7,12 @@
 	display: flex;
 
 	flex-wrap: wrap;
+	
+	height: 450px;
+	
+
+	
+
 
 	
 }
@@ -20,8 +26,22 @@
 	
 }
 
+.item1 {
+	
+	align-self: flex-end;
+	
+}
+
 .item-2 {
 	
 	flex: 2;
 	
-	{
+}
+
+	
+	.item-4 {
+	
+	flex: center;
+	
+	
+	}
